@@ -27,7 +27,7 @@ where
 - `APP_PLATFORM` is `android-API_LEVEL`
 - `APP_ABI` is `armeabi-v7`, `arm64-v8a`, or `x86_64`.
 
-If everyhing worked OK, path to the lib is `obj/local/arm64-v8a/libvpx.a` and include files are in `vpx/jni/libvpx` directory.
+If everything worked OK, path to the lib is `obj/local/arm64-v8a/libvpx.a` and include files are in `vpx/jni/libvpx` directory.
 
 Inspired by https://github.com/denghe/libvpx_prebuilt.
 
