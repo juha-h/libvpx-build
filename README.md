@@ -17,7 +17,7 @@ cd jni
 	--enable-small \
 	--disable-examples --disable-debug --disable-gprof --disable-gcov \
 	--disable-unit-tests --disable-tools --disable-docs --disable-webm-io \
-	--disable-internal-stats --disable-debug-libs
+	--disable-internal-stats --disable-debug-libs --disable-avx
 $(NDK_PATH)/ndk-build \
 	APP_PLATFORM=$(PLATFORM) APP_ABI=$(ANDROID_TARGET_ARCH)
 ```
