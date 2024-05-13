@@ -4,7 +4,7 @@ HOW TO BUILD libvpx FOR ANDROID
 
 - Clone libvpx source to `jni` directory:
 ```
-git clone https://github.com/webmproject/libvpx.git -b v1.14.0 jni
+git clone https://github.com/webmproject/libvpx.git -b v1.14.0 jni/libvpx
 ```
 - Give the following commands in vpx directory:
 ```
